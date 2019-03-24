@@ -1,0 +1,10 @@
+C:\Users\Haydan\Desktop\Coding\C#\Fake Programs\Email Generator\Email Generator\bin\Release\netcoreapp1.1\Email Generator.deps.json
+C:\Users\Haydan\Desktop\Coding\C#\Fake Programs\Email Generator\Email Generator\bin\Release\netcoreapp1.1\Email Generator.runtimeconfig.json
+C:\Users\Haydan\Desktop\Coding\C#\Fake Programs\Email Generator\Email Generator\bin\Release\netcoreapp1.1\Email Generator.runtimeconfig.dev.json
+C:\Users\Haydan\Desktop\Coding\C#\Fake Programs\Email Generator\Email Generator\bin\Release\netcoreapp1.1\Email Generator.dll
+C:\Users\Haydan\Desktop\Coding\C#\Fake Programs\Email Generator\Email Generator\bin\Release\netcoreapp1.1\Email Generator.pdb
+C:\Users\Haydan\Desktop\Coding\C#\Fake Programs\Email Generator\Email Generator\obj\Release\netcoreapp1.1\Email Generator.csprojResolveAssemblyReference.cache
+C:\Users\Haydan\Desktop\Coding\C#\Fake Programs\Email Generator\Email Generator\obj\Release\netcoreapp1.1\Email Generator.csproj.CoreCompileInputs.cache
+C:\Users\Haydan\Desktop\Coding\C#\Fake Programs\Email Generator\Email Generator\obj\Release\netcoreapp1.1\Email Generator.AssemblyInfo.cs
+C:\Users\Haydan\Desktop\Coding\C#\Fake Programs\Email Generator\Email Generator\obj\Release\netcoreapp1.1\Email Generator.dll
+C:\Users\Haydan\Desktop\Coding\C#\Fake Programs\Email Generator\Email Generator\obj\Release\netcoreapp1.1\Email Generator.pdb
